@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Image_processing.application</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="ILGPU" Version="1.5.1" />
+    <PackageReference Include="ILGPU.Algorithms" Version="1.5.1" />
+    <PackageReference Include="System.Drawing.Common" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Image-processing.domain\Image-processing.domain.csproj" />
+    <ProjectReference Include="..\Image-processing.infrastructure\Image-processing.infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "EzzKDBugDlM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cesar\\source\\repos\\Image-processing-backend\\Image-processing.application\\Image-processing.application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\ilgpu\\1.5.1\\ilgpu.1.5.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\ilgpu.algorithms\\1.5.1\\ilgpu.algorithms.1.5.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0\\microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0\\microsoft.entityframeworkcore.relational.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0\\microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0\\microsoft.extensions.caching.memory.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0\\microsoft.extensions.logging.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.options\\9.0.0\\microsoft.extensions.options.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.2\\npgsql.entityframeworkcore.postgresql.9.0.2.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0\\system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
